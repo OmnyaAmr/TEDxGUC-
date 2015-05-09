@@ -1,0 +1,45 @@
+
+
+
+
+
+h1{
+
+	text-align: center;
+}
+
+
+
+
+
+
+
+body {
+background-image: url(T.jpg); /*You will specify your image path here.*/
+
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: top center !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed;
+}
+
+.T{
+
+position:absolute;
+
+text-align: center;
+width:1250px;
+}
+
+.T1{
+position:absolute
+;
+
+text-align: center;
+width:1250px;
+
+vertical-align: 50px;
+
+}
